@@ -6,7 +6,7 @@ Aqui você vai encontrar uma versão simples e divertida do clássico jogo de ca
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Coding">
+  <img src="https://media1.tenor.com/m/qb36GNMGgX0AAAAC/cat-computer.gif" width="300" alt="Cat Coding GIF">
 </div>
 
 <br>
@@ -29,7 +29,7 @@ Here you’ll find a simple and fun version of the classic card game, lovingly b
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300" alt="Cute Cards">
+  <img src="https://media1.tenor.com/m/vbUWNqcruAsAAAAd/vegas-hangover-movie.gif" width="300" alt="Vegas Blackjack GIF">
 </div>
 
 <br>
