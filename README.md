@@ -5,7 +5,7 @@ Aqui você vai encontrar uma versão simples e divertida do clássico jogo de ca
 
 ---
 
-![prograamming GIF](https://tenor.com/pt-BR/view/cat-computer-typing-keyboard-gif-4778563)
+![Gatinho programando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
@@ -26,7 +26,7 @@ Here you will find a simple and fun version of the classic card game, created fo
 
 ---
 
-![Blackjack GIF](https://tenor.com/pt-BR/view/vegas-hangover-movie-the-hangover-blackjack-gambling-gif-26474501)
+![Blackjack em ação](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
 ---
 
